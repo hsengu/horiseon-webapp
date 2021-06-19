@@ -63,17 +63,6 @@ p {
     background-position: center;
 }
 
-/* Content Styling for Adjusting Float */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 /* Main Content Styling */
 .content {
     width: 75%;
@@ -97,6 +86,17 @@ p {
 .content-item h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+/* Content Styling for Adjusting Float */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 /* Benefits Sidebar Styling */
