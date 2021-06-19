@@ -5,3 +5,6 @@ The purpose of this repository is to demonstrate semantically correct HTML tag u
 
 ### Screenshot
 ![ScreenShot](https://raw.githubusercontent.com/hsengu/horiseon-webapp/main/screenshot.jpg)
+
+### URL
+Please visit this page hosted here: https://hsengu.github.io/horiseon-webapp/
